@@ -1,11 +1,11 @@
-#node_modules/
+node_modules/
 
-#*.md
+*.md
 
-#*.json
+*.json
 
-#*.txt
+*.txt
 
-#gulpfile.js
+gulpfile.js
 
-#.gitignore
+.gitignore
