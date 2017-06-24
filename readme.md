@@ -1,6 +1,6 @@
 ## Installation/Usage:
 
-First and foremost, you have to install __[node.js](https://nodejs.org/en/)__ on your machine (if, it is not already installed), then follow these 4 simple steps.
+First and foremost, you have to install __[node.js](https://nodejs.org/en/)__ on your machine (if, it is not already installed), then follow these 4 simple steps given below:
 
 **Step 1**: Clone this entire repo
 ```bash
