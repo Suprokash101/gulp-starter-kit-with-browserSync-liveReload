@@ -1,0 +1,11 @@
+#node_modules/
+
+#*.md
+
+#*.json
+
+#*.txt
+
+#gulpfile.js
+
+#.gitignore

@@ -1,0 +1,22 @@
+{
+  "name": "gulp-starter-kit-with-browsersync-livereload",
+  "version": "1.0.0",
+  "description": "simple gulp project with livereload",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Suprokash Chakraborty",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  }
+}
