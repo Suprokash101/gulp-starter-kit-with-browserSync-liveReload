@@ -8,8 +8,9 @@ gulp.task('browser-sync', function() {
             baseDir: "./app/"
         }
     });
-    gulp.watch("./app/index.html").on('change', reload);
-    gulp.watch("./app/css/*.css").on('change', reload);
+    gulp.watch("./app/*.html").on('change', reload);
+    gulp.watch("./app/**/*.css").on('change', reload);
+    gulp.watch("./app/**/*.js").on('change', reload);
 });
 
 gulp.task('default', ['browser-sync']);
