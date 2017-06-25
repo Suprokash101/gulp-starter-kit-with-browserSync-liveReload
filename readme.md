@@ -26,7 +26,7 @@ $ gulp
 
 Your browser will open....Now edit `index.html` and/or `css/main.css` file inside `app` directory. You can also create other css files and link them with `index.html` file or `main.css` file, if you want...
 
-## List of npm packaged used:
+## List of npm packages used:
 
 - gulp
 - browser-sync
